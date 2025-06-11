@@ -1,0 +1,17 @@
+{
+  "name": "calculadora-python",
+  "description": "Calculadora Python criada pelo DZX-CORE",
+  "repository": "https://github.com/DZX-CORE/calculadora-python",
+  "keywords": [
+    "python",
+    "dzx-core",
+    "automated"
+  ],
+  "env": {},
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
